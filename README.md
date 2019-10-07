@@ -1,5 +1,7 @@
 # operation-kramer
-Python script for Ras Pi to play sound effects on motion sensor
+Python script for Ras Pi to play sound effects on motion sensor.
+
+Nothing fancy here, mostly posting for my own records.
 
 Called operation-kramer because I did it originally with Seinfeld scene transition sounds.
 
